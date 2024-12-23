@@ -1,2 +1,2 @@
 # CoinBytePay
-Payment infrastructure.
+Stablecoin/Crypto Payment infrastructure.
